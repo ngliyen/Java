@@ -5,7 +5,8 @@ public class Bat extends Mammal {
 	
 
 	public Bat() {
-		energyLevel += 200;
+//		energyLevel += 200;
+		energyLevel = 300;
 	}
 	
 	public void fly() {
