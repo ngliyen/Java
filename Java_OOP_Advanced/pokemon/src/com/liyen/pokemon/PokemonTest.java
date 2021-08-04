@@ -23,6 +23,7 @@ public class PokemonTest {
 		System.out.println("----- Get Pokemon Count -----");
 		System.out.println(Pokemon.getCount());
 		
+		
 	}
 
 }
